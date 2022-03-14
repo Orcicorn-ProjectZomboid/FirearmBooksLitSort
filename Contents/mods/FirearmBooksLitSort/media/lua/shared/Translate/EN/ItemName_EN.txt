@@ -1,0 +1,15 @@
+ItemName_EN = {
+
+ItemName_FireBook.Firearm1 = " Aiming Vol.1: Beginner",
+ItemName_FireBook.Firearm2 = " Aiming Vol.2: Intermediate",
+ItemName_FireBook.Firearm3 = " Aiming Vol.3: Advanced",
+ItemName_FireBook.Firearm4 = " Aiming Vol.4: Expert",
+ItemName_FireBook.Firearm5 = " Aiming Vol.5: Master",
+
+ItemName_FireBook.Reloading1 = " Reloading Vol.1: Beginner",
+ItemName_FireBook.Reloading2 = " Reloading Vol.2: Intermediate",
+ItemName_FireBook.Reloading3 = " Reloading Vol.3: Advanced",
+ItemName_FireBook.Reloading4 = " Reloading Vol.4: Expert",
+ItemName_FireBook.Reloading5 = " Reloading Vol.5: Master",
+
+}
