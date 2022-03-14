@@ -32,5 +32,8 @@ description=
 description=[quote]Tested and working on 41.68[/quote]
 description=
 description=[b]MAKE SURE THIS MOD LOADS [u]AFTER[/u] THE FIREARM BOOKS[/b]
+description=[i]Example: FireBook; FireBookExpanded; FireBookLitSort[/i]
+description=
+description=Source: [url=https://github.com/Orcicorn-ProjectZomboid/FirearmBooksLitSort]Github[/url]
 tags=Build 41;Language/Translation;Literature
 visibility=public
