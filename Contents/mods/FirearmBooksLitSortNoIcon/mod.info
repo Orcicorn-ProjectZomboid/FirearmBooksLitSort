@@ -1,0 +1,5 @@
+name=Firearm Books: Sorted (EOLM) [Disable Icons]
+id=FireBookLitSortDisableIcon
+description=When this submod is enabled, it will prevent FireBookLitSort from changing the icons on books.
+poster=poster.png
+require=FireBookLitSort

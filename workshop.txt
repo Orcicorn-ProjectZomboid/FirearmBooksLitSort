@@ -29,15 +29,15 @@ description=  [td]Reloading Vol.5: Master[/td]
 description=[/tr]
 description=[/table]
 description=
-description=[quote]
-description=Tested and working on 41.68 Single player
-description=Tested and workign on 41.68 Dedicated multiplayer
-description=[/quote]
+description=By default the icons for the books will be updated to similiarly match the EOLM mod's appearances. If you prefer to keep the original artwork enable the submod "[b]FireBookLitSortDisableicon[/b]" and the icons will no longer be updated.
 description=
 description=[b]MAKE SURE THIS MOD LOADS [u]AFTER[/u] THE FIREARM BOOKS[/b]
 description=[i]Example: FireBook; FireBookExpanded; FireBookLitSort[/i]
 description=
-description=Source: [url=https://github.com/Orcicorn-ProjectZomboid/FirearmBooksLitSort]Github[/url]
+description=[h1]Source Code[/h1]
+description=Firearm Books: Sorted is Open-Source and published on [url=https://github.com/Orcicorn-ProjectZomboid/FirearmBooksLitSort]Github[/url].
+description=Repackage, redistribution, recode, add to modpack, whatever, I don't care, do as you please.
+description=Credit would be appreciated.
 description=
 description=[h1]Like what I'm doing?[/h1]
 description=[img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/like_favorite.gif[/img] [url=https://ko-fi.com/orcicorn][img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/kofi.png[/img][/url]
