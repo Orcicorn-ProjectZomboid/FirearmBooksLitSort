@@ -1,0 +1,13 @@
+ItemName_RU = {
+    ItemName_FireBook.Firearm1 = " Курсы стрельбы. Том 1",
+    ItemName_FireBook.Firearm2 = " Курсы стрельбы. Том 2",
+    ItemName_FireBook.Firearm3 = " Курсы стрельбы. Том 3",
+    ItemName_FireBook.Firearm4 = " Курсы стрельбы. Том 4",
+    ItemName_FireBook.Firearm5 = " Курсы стрельбы. Том 5",
+
+    ItemName_FireBook.Reloading1 = " Курсы перезарядки. Том 1",
+    ItemName_FireBook.Reloading2 = " Курсы перезарядки. Том 2",
+    ItemName_FireBook.Reloading3 = " Курсы перезарядки. Том 3",
+    ItemName_FireBook.Reloading4 = " Курсы перезарядки. Том 4",
+    ItemName_FireBook.Reloading5 = " Курсы перезарядки. Том 5",
+}
